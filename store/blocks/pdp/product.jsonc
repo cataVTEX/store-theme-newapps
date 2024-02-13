@@ -116,7 +116,6 @@
       "share#default"
     ]
   },
-
   "flex-layout.row#product-name": {
     "props": {
       "marginBottom": 3
